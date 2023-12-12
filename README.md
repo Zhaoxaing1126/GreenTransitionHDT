@@ -25,5 +25,7 @@ We recommend that the user's device meets the following system requirements. Use
 3. Python libraries versions: pandas(>=1.4.2), numpy(>=1.25.1), matplotlib(>=3.5.1), tqdm(>=4.64.0), statsmodels(>=0.13.2).
 
 ## Step 1: preparing the files and setting operations
+1. Download all the files provided in the repository  within your workspace.
+2. 
 
 ## Step 2: running the codes
