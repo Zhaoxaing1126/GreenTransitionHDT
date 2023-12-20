@@ -11,7 +11,7 @@ Pengjun Zhao*, Zhaoxiang Li, .
 This repository is licensed under the Apache License 2.0, see the LICENSE file for details.
 
 ## File descriptions
-1. Individual_HDT_extraction.py: codes for individual HDT data extraction based on vehicle license plate ID. Lines 2-9 are the import of the dependent python libraries. Lines 12-19 are the creation of read/write paths and reading of base data. Lines 22-27 are the extraction of individual HDT data for each day.
+1. IndividualHDT_extraction.py: codes for individual HDT data extraction based on vehicle license plate ID. Lines 2-9 are the import of the dependent python libraries. Lines 12-19 are the creation of read/write paths and reading of base data. Lines 22-27 are the extraction of individual HDT data for each day.
 2. EmissionEstimation.py: codes for trajectory-level emission estimation in the TrackATruck model. Lines 1-13 of the code run the import of the dependent python libraries. Lines 15-24 run the process of importing the underlying data involving the basic parameters of the model. Lines 26-158 are the main program that contains the processing of the GPS trajectory data and the emission estimation process.
 3. Prediction_HDTPopulation.py: codes for HDT population prediction in the ARIMA model. Lines 2-8 are the import of python dependency libraries. Lines 11-27 are base parameter settings and data loading. Lines 30-85 are ARIMA model construction with output of predicted data for HDT population included.
 4. GPS_Data.zip: the test data, including GPS trajectory data from three heavy-duty trucks(HDTs) over a three-day period (July 11 to July 13, 2016).The license plate information of the HDTs has been encrypted due to the data privacy information involved.
