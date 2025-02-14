@@ -5,7 +5,7 @@ GreenTransitionHDT is a comprehensive policy evaluation model for the green frei
 This source is not a Python package. Users should run the code in a Python environment. In addition, several Python packages are required as shown in **System Requirements**.
 
 ## Authors
-Pengjun Zhao*, Zhaoxiang Li, .
+Pengjun Zhao*, Zhaoxiang Li*, Zhangyuan He*, Yilin Chen*, Zuopeng Xiao.
 
 ## License
 This repository is licensed under the Apache License 2.0, see the LICENSE file for details.
