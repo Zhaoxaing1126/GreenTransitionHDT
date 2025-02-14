@@ -1,5 +1,5 @@
 # GreenTransitionHDT
-GreenTransitionHDT is a comprehensive policy evaluation model for the green freight transition for heavy-duty trucks(HDTs). This repository includes the emission estimation model for CO~2~ and air pollutant emissions and the ARIMA statistical prediction model. For more details, see the article "An Integrated Pathway Towards Timely Green Transition of Heavy-duty Trucks in China".
+GreenTransitionHDT is a comprehensive policy evaluation model for the green freight transition for heavy-duty trucks(HDTs). This repository includes the emission estimation model for CO~2~ and air pollutant emissions and the ARIMA statistical prediction model. For more details, see the article "Reducing the Road Freight Emissions through Integrated Strategy in the Port Cities".
 
 ## *Note: 
 This source is not a Python package. Users should run the code in a Python environment. In addition, several Python packages are required as shown in **System Requirements**.
